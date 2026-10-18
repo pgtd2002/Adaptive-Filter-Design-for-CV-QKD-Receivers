@@ -17,7 +17,6 @@ This project focused on developing and evaluating digital signal processing (DSP
 ## Repository Contents
 
 - `report.pdf` — Detailed project report, subject to publication permission.
-- `figures/` — Selected simulation results, subject to publication permission.
 
 ## Technologies & Methods
 
